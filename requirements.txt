@@ -1,3 +1,9 @@
+#PDFKIT HAS ADDITIONAL REQUIREMENTS
+webkit2png
+pdfkit
+pandas
+urllib2
+watson_developer_cloud
 click
 Sphinx
 coverage
